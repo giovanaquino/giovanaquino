@@ -30,7 +30,8 @@
 -->
 
 <!-- GIF -->
-![cozy-room](https://github.com/araujocode/araujocode/assets/125917112/cced781a-ed6d-46b0-b9fe-69726f65a02d)
+![Pixel](https://github.com/giovanaquino/giovanaquino/assets/142998113/1259595a-81ea-4b99-a3b3-42f12f4e0fc6)
+
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
