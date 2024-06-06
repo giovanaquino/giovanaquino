@@ -5,7 +5,7 @@
 <p>
         I'm Giovana! A passionate IT student from Brazil.
 
-  - 🌱 I’m currently studying Systems Development at Senac Sorocaba.
+  - 🌱 I’m currently studying Systems Development at Sorocaba.
 
   - 🔭 My dream is to one day work as a Developer.
 
